@@ -6,7 +6,7 @@
 ## Google Sheet setup
 
  * From your Google Sheet, from the "Extensions" menu select "Apps Script"
- * Paste this whole file into the script code editor and hit Save icon.
+ * Paste code from `index.js` into the script code editor and hit Save icon.
  * From the "Deploy" menu, select Deploy as web app
  * Choose to execute the app as yourself, and allow "Anyone", even anonymous to execute the script.
  * Now click Deploy. You may be asked to review permissions now.
